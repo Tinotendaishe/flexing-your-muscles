@@ -1,7 +1,7 @@
 html {
   box-sizing: border-box;
   font-family: sans-serif;
-  line-height: 1.5
+  line-height: 1.5;
 }
 
 *, *::before, *::after {
@@ -46,11 +46,16 @@ img {
   color: #003442;
 }
 
+.links {
+  padding: 0 1rem;
+}
+
 .social {
-  margin: auto;
+  margin-left: auto;
   padding: 0 1rem;
   display: flex;
 }
+
 
 .social > li {
   margin: 0 .5em;
