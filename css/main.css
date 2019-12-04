@@ -56,11 +56,12 @@ img {
   display: flex;
 }
 
-
 .social > li {
+
   margin: 0 .5em;
   width: 3em;
 }
+
 .copyright {
   padding: 0 1rem;
   width: 100%;
